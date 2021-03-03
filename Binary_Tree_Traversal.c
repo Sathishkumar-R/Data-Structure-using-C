@@ -12,7 +12,7 @@ void inOrder(struct node* r);
 void preOrder(struct node* r);
 void postOrder(struct node* r);
 int main()
-{
+{ 
 root = NULL;
 int n, v;
 printf("How many data's do you want to insert ?\n");
